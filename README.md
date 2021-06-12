@@ -2,7 +2,6 @@
 
 ## 🚀 Recursos Utilizados
 
-- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Typescript]()**
 - **[TypeORM]()**

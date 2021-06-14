@@ -25,6 +25,9 @@
         "import/no-unresolved": "error",
         "class-method-use-this" : "off",
         "@typescript-eslint/camelcase" : "off",
+        "@typescript-eslint/no-unused-vars":["error", {
+            "argsIgnorePattern" : "_"
+        }],
         "@typescript-eslint/naming-convention": [
           "error",
           {
